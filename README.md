@@ -4,7 +4,7 @@
 <img align='right' src='assets/octocat-anime.gif' width='150'>
 
 #### 💻 Technologies that I use
-![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![Bootstrap](./assets/bootstrap.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![Bootstrap](./assets/bootstrap.svg) <!--![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)-->
 
 
 <!--Here are some ideas to get you started:
